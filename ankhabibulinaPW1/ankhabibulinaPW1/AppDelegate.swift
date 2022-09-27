@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ankhabibulinaPW1
 //
-//  Created by Нияз Хабибулин on 26.09.2022.
+//  Created by Нияз Хабибулин on 28.09.2022.
 //
 
 import UIKit
